@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ayushgautamcodes/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ayushgautamcodes/leetcode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayushgautamcodes/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0136-single-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ayushgautamcodes/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ayushgautamcodes/leetcode/tree/master/0367-valid-perfect-square) |
