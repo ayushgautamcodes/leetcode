@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ayushgautamcodes/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/ayushgautamcodes/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ayushgautamcodes/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ayushgautamcodes/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushgautamcodes/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ayushgautamcodes/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayushgautamcodes/leetcode/tree/master/0258-add-digits) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushgautamcodes/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ayushgautamcodes/leetcode/tree/master/0367-valid-perfect-square) |
 ## Heap (Priority Queue)
