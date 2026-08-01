@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushgautamcodes/leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/ayushgautamcodes/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ayushgautamcodes/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ayushgautamcodes/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ayushgautamcodes/leetcode/tree/master/0069-sqrtx) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ayushgautamcodes/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ayushgautamcodes/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0268-missing-number) |
