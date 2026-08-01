@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushgautamcodes/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ayushgautamcodes/leetcode/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayushgautamcodes/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0090-subsets-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ayushgautamcodes/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushgautamcodes/leetcode/tree/master/0217-contains-duplicate) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushgautamcodes/leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
