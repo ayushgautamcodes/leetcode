@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayushgautamcodes/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ayushgautamcodes/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushgautamcodes/leetcode/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayushgautamcodes/leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/ayushgautamcodes/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushgautamcodes/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushgautamcodes/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushgautamcodes/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ayushgautamcodes/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
@@ -144,9 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushgautamcodes/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushgautamcodes/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
