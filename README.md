@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayushgautamcodes/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ayushgautamcodes/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushgautamcodes/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0867-transpose-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/ayushgautamcodes/leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushgautamcodes/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushgautamcodes/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ayushgautamcodes/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ayushgautamcodes/leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayushgautamcodes/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/ayushgautamcodes/leetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
 | ------- |
