@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayushgautamcodes/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/ayushgautamcodes/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ayushgautamcodes/leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ayushgautamcodes/leetcode/tree/master/0066-plus-one) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayushgautamcodes/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/ayushgautamcodes/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ayushgautamcodes/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ayushgautamcodes/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ayushgautamcodes/leetcode/tree/master/0283-move-zeroes) |
