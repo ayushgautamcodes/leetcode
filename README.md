@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ayushgautamcodes/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ayushgautamcodes/leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ayushgautamcodes/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ayushgautamcodes/leetcode/tree/master/0078-subsets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ayushgautamcodes/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ayushgautamcodes/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0867-transpose-matrix) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgautamcodes/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/ayushgautamcodes/leetcode/tree/master/0867-transpose-matrix) |
