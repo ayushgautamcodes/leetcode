@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ayushgautamcodes/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ayushgautamcodes/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ayushgautamcodes/leetcode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushgautamcodes/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayushgautamcodes/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Dynamic Programming
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushgautamcodes/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ayushgautamcodes/leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushgautamcodes/leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ayushgautamcodes/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayushgautamcodes/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushgautamcodes/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/ayushgautamcodes/leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ayushgautamcodes/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Stack
 |  |
