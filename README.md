@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ayushgautamcodes/leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushgautamcodes/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushgautamcodes/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/ayushgautamcodes/leetcode/tree/master/1470-shuffle-the-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ayushgautamcodes/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
