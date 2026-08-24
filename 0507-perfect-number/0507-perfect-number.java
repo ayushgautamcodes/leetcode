@@ -1,20 +1,14 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        boolean ans;
+        boolean ans =  true;
         int total = 0;
-        int i = 1;
-        while(i<num){
+        for(int i = 1;i<num;i++){
             if(num%i==0){
-                total+=i;
-                i++;
-            }else{
-                i++;
+                total += i;
             }
         }
         if(total != num){
             ans = false;
-        }else{
-            ans = true;
         }
         return ans;
     }
