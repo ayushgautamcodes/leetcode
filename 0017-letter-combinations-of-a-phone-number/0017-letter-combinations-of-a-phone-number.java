@@ -11,6 +11,9 @@ class Solution {
             {"w","x","y","z"} 
         };
         res.add("");
+        if(digits.isEmpty()){
+            return res;
+        }
         int s = digits.length();
         for(int i = 0;i<s;i++){
             int dn = digits.charAt(i) -'0';
