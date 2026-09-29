@@ -10,8 +10,6 @@ class Solution {
         while(position<nums.length){
             nums[position]= 0;
             position++;
-        }
-        
-        
+        }   
     }
 }
